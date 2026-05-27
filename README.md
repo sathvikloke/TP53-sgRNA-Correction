@@ -32,8 +32,7 @@ The pipeline writes CSVs to `../results/`, figures to `../figures/`, and a full 
 
 ## Paper
 
-The full methodology, results, and discussion are in
-[`paper/TP53_sgRNA_prioritization_paper.docx`](paper/TP53_sgRNA_prioritization_paper.docx).
+(https://doi.org/10.64898/2026.05.20.726726)
 
 ## What this pipeline finds
 
